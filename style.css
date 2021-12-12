@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background: linear-gradient(
+    #b3a4a2,
+    #807473,
+    #524949,
+    #2b2828,
+    #242323,
+    #000000
+  );
+}
+.pic {
+  height: 400px;
+  width: 300px;
+}
+
+.header
+{
+	color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
